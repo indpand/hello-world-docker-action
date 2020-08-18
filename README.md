@@ -1,5 +1,5 @@
 # Hello world docker action
-
+#data
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
 
 ## Inputs
@@ -18,4 +18,4 @@ The time we greeted you.
 
 uses: actions/hello-world-docker-action@v1
 with:
-  who-to-greet: 'Mona the Octocat'
+  who-to-greet: 'Mona the Octocat'git add action.yml entrypoint.sh Dockerfile README.md

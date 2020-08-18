@@ -1,4 +1,4 @@
-# action.yml
+# action.ymld
 name: 'Hello World'
 description: 'This is my first docker'
 inputs:
